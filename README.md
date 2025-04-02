@@ -1,4 +1,5 @@
 # TallerDocker
+
 🚀 Taller de Docker con CI/CD Aprende a implementar CI/CD con Docker y GitHub Actions. Configuraremos contenedores, crearemos pipelines de integración y despliegue automático, y optimizaremos el flujo de trabajo para entornos de desarrollo y producción. ¡Sigue el repo y automatiza como un pro! 🔥🚀
 
 # 🛡️ Taller Docker SEC101 | Introducción a la Seguridad en Contenedores 🔍
@@ -11,11 +12,11 @@ Este curso está diseñado para brindarte los conocimientos esenciales que te pe
 
 ## 📘 Contenidos
 
-- ✅ Principales riesgos y amenazas en entornos Docker.  
-- ✅ Buenas prácticas en la construcción y gestión de imágenes seguras.  
-- ✅ Configuración de permisos, usuarios y redes en Docker.  
-- ✅ Escaneo de vulnerabilidades en contenedores.  
-- ✅ Herramientas y estrategias para la monitorización y respuesta ante incidentes.  
+- ✅ Principales riesgos y amenazas en entornos Docker.
+- ✅ Buenas prácticas en la construcción y gestión de imágenes seguras.
+- ✅ Configuración de permisos, usuarios y redes en Docker.
+- ✅ Escaneo de vulnerabilidades en contenedores.
+- ✅ Herramientas y estrategias para la monitorización y respuesta ante incidentes.
 
 ---
 
@@ -23,16 +24,29 @@ Este curso está diseñado para brindarte los conocimientos esenciales que te pe
 
 Es recomendable contar con:
 
-- Conocimientos básicos de Docker (uso de imágenes, contenedores y volúmenes).  
-- Familiaridad con la línea de comandos (CLI).  
-> *No se requiere experiencia previa en ciberseguridad, aunque se valoran nociones básicas de administración de sistemas.*
+- Conocimientos básicos de Docker (uso de imágenes, contenedores y volúmenes).
+- Familiaridad con la línea de comandos (CLI).
+  > _No se requiere experiencia previa en ciberseguridad, aunque se valoran nociones básicas de administración de sistemas._
 
 ---
 
 ## 🖥️ Requisitos técnicos
 
-- 💻 **Sistema operativo:** Windows (con WSL), macOS o Linux (preferiblemente Linux).  
-- 📝 **Editor de código:** VS Code, Vim, Nano u otro de preferencia.  
+- 💻 **Sistema operativo:** Windows (con WSL), macOS o Linux (preferiblemente Linux).
+- 📝 **Editor de código:** VS Code, Vim, Nano u otro de preferencia.
 - 🌐 **Conexión a internet:** Para acceso al entorno virtual y/o materiales del curso.
 
 ---
+
+## 🗂️ Estructura del repositorio
+
+docker-sec101/ ├── README.md # Este archivo ├── .gitignore # Ignorar archivos locales temporales ├── slides/ # Presentaciones del taller ├── docs/ # Documentación adicional ├── exercises/ # Ejercicios prácticos por tema ├── solutions/ # Soluciones propuestas ├── dockerfiles/ # Ejemplos buenos y malos ├── scripts/ # Scripts de utilidad └── resources.md # Recursos adicionales y enlaces útiles
+
+---
+
+## 🚀 Cómo empezar
+
+```bash
+git clone https://github.com/Nau-c/TallerDocker.git
+cd TallerDocker
+```
