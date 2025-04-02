@@ -15,6 +15,7 @@ Si tenemos un FROM node:latest, reemplazaremos por FROM node:18-alpine.
 🧱 Paso 2: Construir la imagen
 
 docker build -t secure-app .
+docker image rm secure-app
 
 Limpiar imagenes antiguas (Opcional)
 
