@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  root-app:
+    build:
+      context: ./user-root-app
+      dockerfile: Dockerfile
+    ports:
+      - "4000:3000"
+    container_name: root-app
