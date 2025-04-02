@@ -40,7 +40,7 @@ Es recomendable contar con:
 
 ## 🗂️ Estructura del repositorio
 
-docker-sec101/ ├── README.md # Este archivo ├── .gitignore # Ignorar archivos locales temporales ├── slides/ # Presentaciones del taller ├── docs/ # Documentación adicional ├── exercises/ # Ejercicios prácticos por tema ├── solutions/ # Soluciones propuestas ├── dockerfiles/ # Ejemplos buenos y malos ├── scripts/ # Scripts de utilidad └── resources.md # Recursos adicionales y enlaces útiles
+TallerDocker/ ├── README.md # Este archivo ├── .gitignore # Ignorar archivos locales temporales ├── slides/ # Presentaciones del taller ├── docs/ # Documentación adicional ├── exercises/ # Ejercicios prácticos por tema ├── solutions/ # Soluciones propuestas ├── dockerfiles/ # Ejemplos buenos y malos ├── scripts/ # Scripts de utilidad └── resources.md # Recursos adicionales y enlaces útiles
 
 ---
 
