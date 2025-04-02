@@ -1,4 +1,3 @@
-# ⚠️ Imagen con malas prácticas
 FROM node:latest
 
 WORKDIR /app

@@ -1,4 +1,3 @@
-# ✅ Imagen siguiendo buenas prácticas
 FROM node:18-alpine
 
 WORKDIR /app

@@ -1,0 +1,12 @@
+{
+  "name": "docker-sec101-app",
+  "version": "1.0.0",
+  "description": "App sencilla para el taller de seguridad en Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
