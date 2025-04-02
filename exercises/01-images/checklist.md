@@ -1,6 +1,6 @@
 # ✅ Checklist: Buenas prácticas al construir imágenes Docker
 
-- [ ] Usar imágenes base mínimas (`node:alpine`, `debian:slim`, etc).
+- [x] Usar imágenes base mínimas (`node:alpine`, `debian:slim`, etc).
 - [ ] Fijar versiones específicas (`node:18-alpine`, evitar `latest`).
 - [ ] No instalar herramientas innecesarias.
 - [ ] Usar archivos `.dockerignore` si hay muchos ficheros locales.
